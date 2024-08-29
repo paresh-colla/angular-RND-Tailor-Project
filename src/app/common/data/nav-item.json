@@ -1,0 +1,19 @@
+{
+    "ROUTING_LIST":[
+        {
+            "name":"Dashboard",
+            "path":"dashboard",
+            "icon":"group"
+        },
+        {
+            "name":"Customer",
+            "path":"customer",
+            "icon":"group"
+        },
+        {
+            "name":"Employee",
+            "path":"employee",
+            "icon":"group"
+        }
+    ]
+}
